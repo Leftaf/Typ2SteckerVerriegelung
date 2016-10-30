@@ -1,2 +1,2 @@
 # Typ2SteckerVerriegelung
-angoo Typ2 Steckerverriegelung und Freigabe   
+Kangoo Typ2 Steckerverriegelung und Freigabe   
